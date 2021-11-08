@@ -1,15 +1,15 @@
-## Welcome to my first page!
+## Ariadna Mikele
 
-Hi
+Hi!
 
 You better run run run
 
-### Markdown
+### Made with markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Hobbies: escuchar música de géneros variados, mirar películas, anime y series coreanas
 
 # Header 1
 ## Header 2
@@ -32,6 +32,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ariadna75m/AaAaaA/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Música piola uwu
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[LOONA](https://youtu.be/_EEo-iE5u_A)
