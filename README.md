@@ -1,6 +1,8 @@
 ## Ariadna Mikele
 
-Hi!
+*Hi! Welcome to my first web page!* 
+
+Mi nombre es **Ariadna Mikele Ponce Flores**. Tengo **18** años y estudio la carrera de Ingeniería de Software en la Universidad San Ignacio de Loyola.
 
 You better run run run
 
