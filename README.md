@@ -2,13 +2,15 @@
 
 *Hi! Welcome to my first web page!* 
 
-Mi nombre es **Ariadna Mikele Ponce Flores**. Tengo **18** años y estudio la carrera de Ingeniería de Software en la Universidad San Ignacio de Loyola.
+Mi nombre es **Ariadna Mikele Ponce Flores**. Tengo **18** años y estudio la carrera de Ingeniería de Software en la Universidad San Ignacio de Loyola. 
 
-You better run run run
+En mis ratos libres me gusta escuchar música variada, mirar películas, anime y series coreanas. 
 
-### Made with markdown
+### Animes 10/10 que recomiendo uwu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mira ahora [Attack on titan](https://www.crunchyroll.com/attack-on-titan)
+
+![This is an image](https://depor.com/resizer/RAG4KUQ6CCYVWYrhajHv01eDmyE=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/4C32265SENBG7IOGSGZMZ5R4PY.jpg)
 
 ```markdown
 Hobbies: escuchar música de géneros variados, mirar películas, anime y series coreanas
