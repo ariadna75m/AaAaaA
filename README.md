@@ -40,4 +40,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 [LOONA](https://youtu.be/_EEo-iE5u_A)
 
-[uwu](google-site-verification: google2419ffc74392fb85.html)
