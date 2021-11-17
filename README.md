@@ -13,7 +13,7 @@ Watch [Attack on titan](https://www.crunchyroll.com/attack-on-titan)
 
 ## Music
 [LOONA](https://youtu.be/_EEo-iE5u_A)
-![This is an image](
+![This is an image](https://img5.yna.co.kr/etc/inner/SP/2018/11/05/ASP20181105001500883_01_i_P2.jpg)
 
 ## ¡Contáctame!
 
