@@ -9,12 +9,12 @@ En mi tiempo libre me gusta escuchar música, mirar películas y series.
 
 Watch [Attack on titan](https://www.crunchyroll.com/attack-on-titan)
 
-![This is an image](https://depor.com/resizer/RAG4KUQ6CCYVWYrhajHv01eDmyE=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/4C32265SENBG7IOGSGZMZ5R4PY.jpg)
 <img src="https://depor.com/resizer/RAG4KUQ6CCYVWYrhajHv01eDmyE=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/4C32265SENBG7IOGSGZMZ5R4PY.jpg" alt="alt text" title="image Title" height="150"/>
 
 ## Music
 [LOONA](https://youtu.be/_EEo-iE5u_A)
-![This is an image](https://img5.yna.co.kr/etc/inner/SP/2018/11/05/ASP20181105001500883_01_i_P2.jpg)
+
+<img src="https://img5.yna.co.kr/etc/inner/SP/2018/11/05/ASP20181105001500883_01_i_P2.jpg" alt="loona" title="loona" height="160"/>
 
 ## ¡Contáctame!
 
