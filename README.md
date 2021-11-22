@@ -20,6 +20,11 @@ En mi tiempo libre me gusta escuchar música, mirar películas y series.
 
 <a href="https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0?si=LlbFOwJxSReg9FwSj2H0Vw"><img src="https://www.nacionrex.com/__export/1626200831106/sites/debate/img/2021/07/13/quien-es-la-mas-bonita-de-twice_1_crop1626200380341.jpg_172596871.jpg" height="160"></a>
 
+___
+
 ## ¡Contáctame!
 
-<a href=""><img src="
+<a href="https://www.facebook.com/wrxdnr/" target="_blank"><img align="left" alt="Facebook" width="32px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png"/></a>
+<a href="https://twitter.com/dundonutss" target="_blank"><img align="left" alt="Twitter" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png"/></a>
+<a href="https://www.instagram.com/kurariuu/" target="_blank"><img align="left" alt="Instagram" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"/></a>
+<a href="https://wa.me/51902048058/" target="_blank"><img align="left" alt="LinkedIn" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/whatsapp_tile_logo_icon_169898.png"/></a>
