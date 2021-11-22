@@ -18,7 +18,8 @@ En mi tiempo libre me gusta escuchar música, mirar películas y series.
 
 ♡ [TWICE](https://youtu.be/vPwaXytZcgI)
 
-<
+<a href="https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0?si=LlbFOwJxSReg9FwSj2H0Vw"><img src="https://www.nacionrex.com/__export/1626200831106/sites/debate/img/2021/07/13/quien-es-la-mas-bonita-de-twice_1_crop1626200380341.jpg_172596871.jpg" height="160"></a>
 
 ## ¡Contáctame!
 
+<a href=""><img src="
