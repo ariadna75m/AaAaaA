@@ -14,11 +14,11 @@ En mi tiempo libre me gusta escuchar música, mirar películas y series.
 
 ♡ [LOONA](https://youtu.be/_EEo-iE5u_A)
 
-<img src="https://img5.yna.co.kr/etc/inner/SP/2018/11/05/ASP20181105001500883_01_i_P2.jpg" alt="loona" title="loona" height="160"/>
+<a href="https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7?si=iTgYsgHYQteNXGWtc8FyOw"><img src="https://img5.yna.co.kr/etc/inner/SP/2018/11/05/ASP20181105001500883_01_i_P2.jpg" height="160"></a>
 
 ♡ [TWICE](https://youtu.be/vPwaXytZcgI)
 
 <
 
 ## ¡Contáctame!
-<a href="https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7?si=iTgYsgHYQteNXGWtc8FyOw"><img src="https://img5.yna.co.kr/etc/inner/SP/2018/11/05/ASP20181105001500883_01_i_P2.jpg"></a>
+
