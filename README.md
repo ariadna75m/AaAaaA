@@ -29,6 +29,9 @@ ___
 ## Contacto
 
 <a href="https://www.facebook.com/wrxdnr/" target="_blank"><img align="left" alt="Facebook" width="32px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png"/></a>
+
 <a href="https://twitter.com/dundonutss" target="_blank"><img align="left" alt="Twitter" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png"/></a>
+
 <a href="https://www.instagram.com/kurariuu/" target="_blank"><img align="left" alt="Instagram" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"/></a>
+
 <a href="https://wa.me/51902048058/" target="_blank"><img align="left" alt="Whatsapp" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-512.png"/></a>
